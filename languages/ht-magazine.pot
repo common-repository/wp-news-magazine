@@ -1,0 +1,1486 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP News Magazine\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-09-13 06:31+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8.1\n"
+"X-Domain: ht-magazine"
+
+#: includes/addons/news_tab.php:1065
+msgid "%"
+msgstr ""
+
+#: includes/addons/news_tab.php:1065
+msgid "("
+msgstr ""
+
+#: includes/addons/news_tab.php:1065
+msgid ")"
+msgstr ""
+
+#: includes/addons/news_tab.php:1065
+msgid "0"
+msgstr ""
+
+#: includes/addons/news_tab.php:1065
+msgid "1"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:38
+msgid "193"
+msgstr ""
+
+#: admin/include/admin_notice.php:29
+msgid "Activate Elementor Now"
+msgstr ""
+
+#: includes/addons/news_block.php:1635 includes/addons/news_carousel.php:1372
+#: includes/addons/news_grid.php:1356 includes/addons/news_instagram.php:733
+#: includes/addons/news_sidebar_tab.php:220 includes/addons/news_tab.php:369
+msgid "Active"
+msgstr ""
+
+#: includes/addons/adds_banner.php:13
+msgid "Adds Banner"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:37
+msgid "AIzaSyAsvJPKTArFviBbDntKU4sHxkl8fYrj1uM"
+msgstr ""
+
+#: includes/addons/news_block.php:721 includes/addons/news_block.php:857
+#: includes/addons/news_block.php:979 includes/addons/news_block.php:1067
+#: includes/addons/news_block.php:1258 includes/addons/news_carousel.php:761
+#: includes/addons/news_carousel.php:875 includes/addons/news_carousel.php:963
+#: includes/addons/news_grid.php:703 includes/addons/news_grid.php:815
+#: includes/addons/news_grid.php:937 includes/addons/news_mail_chimp.php:113
+#: includes/addons/news_overlay_grid.php:215
+#: includes/addons/news_overlay_grid.php:304
+msgid "Alignment"
+msgstr ""
+
+#: includes/addons/news_ticker.php:81
+msgid "Animatied duration"
+msgstr ""
+
+#: includes/addons/news_ticker.php:72
+msgid "Animation Speed"
+msgstr ""
+
+#: includes/addons/news_block.php:1317 includes/addons/news_carousel.php:1054
+#: includes/addons/news_grid.php:1038 includes/addons/news_instagram.php:415
+msgid "Arrow"
+msgstr ""
+
+#: includes/addons/news_block.php:108 includes/addons/news_carousel.php:111
+#: includes/addons/news_grid.php:108 includes/addons/news_overlay_grid.php:96
+#: includes/addons/news_sidebar_tab.php:82 includes/addons/news_tab.php:116
+#: includes/addons/news_ticker.php:190
+msgid "Ascending"
+msgstr ""
+
+#: includes/widgets/author-info.php:51
+msgid "Author Image"
+msgstr ""
+
+#: includes/addons/news_ticker.php:103
+msgid "Auto Start"
+msgstr ""
+
+#: includes/addons/news_block.php:444 includes/addons/news_carousel.php:425
+#: includes/addons/news_grid.php:377 includes/addons/news_instagram.php:274
+msgid "Autoplay animation speed"
+msgstr ""
+
+#: includes/addons/news_block.php:431 includes/addons/news_carousel.php:412
+#: includes/addons/news_grid.php:364 includes/addons/news_instagram.php:261
+msgid "Autoplay speed"
+msgstr ""
+
+#: includes/addons/news_block.php:1182 includes/addons/news_block.php:1379
+#: includes/addons/news_block.php:1490 includes/addons/news_block.php:1549
+#: includes/addons/news_block.php:1643 includes/addons/news_carousel.php:1116
+#: includes/addons/news_carousel.php:1227
+#: includes/addons/news_carousel.php:1286
+#: includes/addons/news_carousel.php:1380 includes/addons/news_grid.php:1026
+#: includes/addons/news_grid.php:1100 includes/addons/news_grid.php:1211
+#: includes/addons/news_grid.php:1270 includes/addons/news_grid.php:1364
+#: includes/addons/news_instagram.php:477
+#: includes/addons/news_instagram.php:588
+#: includes/addons/news_instagram.php:647
+#: includes/addons/news_instagram.php:741
+#: includes/addons/news_mail_chimp.php:104
+#: includes/addons/news_overlay_grid.php:393
+#: includes/addons/news_ticker.php:264 includes/addons/news_ticker.php:384
+#: includes/addons/news_ticker.php:462 includes/addons/news_ticker.php:539
+msgid "Background"
+msgstr ""
+
+#: includes/addons/contact_form.php:163 includes/addons/contact_form.php:300
+#: includes/addons/news_carousel.php:574
+#: includes/addons/news_mail_chimp.php:221
+#: includes/addons/news_mail_chimp.php:372
+#: includes/addons/news_mail_chimp.php:451
+#: includes/addons/news_sidebar_tab.php:192
+#: includes/addons/news_sidebar_tab.php:240
+msgid "Background Color"
+msgstr ""
+
+#: includes/addons/adds_banner.php:28
+msgid "Banner"
+msgstr ""
+
+#: includes/addons/news_tab.php:192
+msgid "Banner Blog Image Size"
+msgstr ""
+
+#: includes/widgets/single-banner.php:42
+msgid "Banner Image"
+msgstr ""
+
+#: includes/addons/adds_banner.php:55
+msgid "Banner Link"
+msgstr ""
+
+#: includes/widgets/single-banner.php:110
+msgid "Banner Link:"
+msgstr ""
+
+#: includes/addons/contact_form.php:206 includes/addons/contact_form.php:344
+#: includes/addons/news_block.php:1389 includes/addons/news_block.php:1500
+#: includes/addons/news_block.php:1559 includes/addons/news_block.php:1653
+#: includes/addons/news_carousel.php:1126
+#: includes/addons/news_carousel.php:1237
+#: includes/addons/news_carousel.php:1296
+#: includes/addons/news_carousel.php:1390 includes/addons/news_grid.php:1110
+#: includes/addons/news_grid.php:1221 includes/addons/news_grid.php:1280
+#: includes/addons/news_grid.php:1374 includes/addons/news_instagram.php:487
+#: includes/addons/news_instagram.php:598
+#: includes/addons/news_instagram.php:657
+#: includes/addons/news_instagram.php:751
+#: includes/addons/news_mail_chimp.php:264
+#: includes/addons/news_mail_chimp.php:410
+#: includes/addons/news_mail_chimp.php:463 includes/addons/news_ticker.php:274
+#: includes/addons/news_ticker.php:394 includes/addons/news_ticker.php:472
+#: includes/addons/news_ticker.php:549
+msgid "Border"
+msgstr ""
+
+#: includes/addons/contact_form.php:214 includes/addons/contact_form.php:352
+#: includes/addons/news_block.php:1397 includes/addons/news_block.php:1508
+#: includes/addons/news_block.php:1567 includes/addons/news_block.php:1661
+#: includes/addons/news_carousel.php:1134
+#: includes/addons/news_carousel.php:1245
+#: includes/addons/news_carousel.php:1304
+#: includes/addons/news_carousel.php:1398 includes/addons/news_grid.php:1118
+#: includes/addons/news_grid.php:1229 includes/addons/news_grid.php:1288
+#: includes/addons/news_grid.php:1382 includes/addons/news_instagram.php:495
+#: includes/addons/news_instagram.php:606
+#: includes/addons/news_instagram.php:665
+#: includes/addons/news_instagram.php:759
+#: includes/addons/news_mail_chimp.php:272
+#: includes/addons/news_mail_chimp.php:418 includes/addons/news_ticker.php:282
+#: includes/addons/news_ticker.php:402 includes/addons/news_ticker.php:480
+msgid "Border Radius"
+msgstr ""
+
+#: includes/addons/news_ticker.php:38
+msgid "Breaking News"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:316
+msgid "Button"
+msgstr ""
+
+#: includes/addons/news_instagram.php:67
+msgid "Cache Time Duration"
+msgstr ""
+
+#: includes/addons/news_block.php:233 includes/addons/news_carousel.php:241
+#: includes/addons/news_instagram.php:88
+msgid "Carousel"
+msgstr ""
+
+#: includes/addons/news_block.php:315 includes/addons/news_carousel.php:296
+#: includes/addons/news_instagram.php:145
+msgid "Carousel Arrow"
+msgstr ""
+
+#: includes/addons/news_block.php:417 includes/addons/news_carousel.php:398
+#: includes/addons/news_instagram.php:247
+msgid "Carousel auto play"
+msgstr ""
+
+#: includes/addons/news_block.php:360 includes/addons/news_carousel.php:341
+#: includes/addons/news_instagram.php:190
+msgid "Carousel dots"
+msgstr ""
+
+#: includes/addons/news_block.php:456 includes/addons/news_block.php:498
+#: includes/addons/news_block.php:553 includes/addons/news_carousel.php:437
+#: includes/addons/news_carousel.php:479 includes/addons/news_carousel.php:534
+#: includes/addons/news_instagram.php:286
+#: includes/addons/news_instagram.php:328
+#: includes/addons/news_instagram.php:383
+msgid "Carousel item to scroll"
+msgstr ""
+
+#: includes/addons/news_block.php:285 includes/addons/news_block.php:483
+#: includes/addons/news_block.php:538 includes/addons/news_carousel.php:266
+#: includes/addons/news_carousel.php:464 includes/addons/news_carousel.php:519
+#: includes/addons/news_instagram.php:115
+#: includes/addons/news_instagram.php:313
+#: includes/addons/news_instagram.php:368
+msgid "Carousel Items"
+msgstr ""
+
+#: includes/addons/news_block.php:275 includes/addons/news_carousel.php:256
+#: includes/addons/news_instagram.php:105
+msgid "Carousel Option"
+msgstr ""
+
+#: includes/addons/news_block.php:300 includes/addons/news_carousel.php:281
+#: includes/addons/news_instagram.php:130
+msgid "Carousel Row"
+msgstr ""
+
+#: includes/addons/news_block.php:72 includes/addons/news_carousel.php:75
+#: includes/addons/news_grid.php:72 includes/addons/news_overlay_grid.php:60
+#: includes/addons/news_sidebar_tab.php:37 includes/addons/news_tab.php:71
+#: includes/addons/news_ticker.php:133
+msgid "Categories"
+msgstr ""
+
+#: includes/addons/news_category_menu.php:13
+msgid "Categories List"
+msgstr ""
+
+#: includes/addons/news_block.php:163 includes/addons/news_block.php:1125
+#: includes/addons/news_carousel.php:153
+#: includes/addons/news_category_menu.php:28 includes/addons/news_grid.php:150
+#: includes/addons/news_grid.php:970 includes/addons/news_overlay_grid.php:128
+#: includes/addons/news_overlay_grid.php:337 includes/addons/news_tab.php:792
+msgid "Category"
+msgstr ""
+
+#: includes/addons/news_category_menu.php:129
+msgid "Category Menu"
+msgstr ""
+
+#: includes/addons/news_block.php:729 includes/addons/news_block.php:865
+#: includes/addons/news_block.php:987 includes/addons/news_block.php:1075
+#: includes/addons/news_block.php:1266 includes/addons/news_carousel.php:769
+#: includes/addons/news_carousel.php:883 includes/addons/news_carousel.php:971
+#: includes/addons/news_grid.php:711 includes/addons/news_grid.php:823
+#: includes/addons/news_grid.php:945 includes/addons/news_mail_chimp.php:121
+#: includes/addons/news_overlay_grid.php:223
+#: includes/addons/news_overlay_grid.php:312
+msgid "Center"
+msgstr ""
+
+#: includes/addons/news_block.php:388 includes/addons/news_carousel.php:369
+#: includes/addons/news_grid.php:321 includes/addons/news_instagram.php:218
+msgid "Center Mode"
+msgstr ""
+
+#: includes/addons/news_block.php:401 includes/addons/news_carousel.php:382
+#: includes/addons/news_grid.php:334 includes/addons/news_instagram.php:231
+msgid "Center padding"
+msgstr ""
+
+#: includes/addons/contact_form.php:69 includes/addons/contact_info.php:100
+#: includes/addons/contact_info.php:169 includes/addons/contact_info.php:192
+#: includes/addons/news_block.php:595 includes/addons/news_block.php:676
+#: includes/addons/news_block.php:760 includes/addons/news_block.php:800
+#: includes/addons/news_block.php:902 includes/addons/news_block.php:934
+#: includes/addons/news_block.php:1022 includes/addons/news_block.php:1109
+#: includes/addons/news_block.php:1136 includes/addons/news_block.php:1213
+#: includes/addons/news_block.php:1297 includes/addons/news_block.php:1339
+#: includes/addons/news_block.php:1477 includes/addons/news_carousel.php:634
+#: includes/addons/news_carousel.php:716 includes/addons/news_carousel.php:801
+#: includes/addons/news_carousel.php:830 includes/addons/news_carousel.php:918
+#: includes/addons/news_carousel.php:1006
+#: includes/addons/news_carousel.php:1076
+#: includes/addons/news_carousel.php:1214
+#: includes/addons/news_category_menu.php:68
+#: includes/addons/news_category_menu.php:146
+#: includes/addons/news_category_menu.php:176 includes/addons/news_grid.php:577
+#: includes/addons/news_grid.php:658 includes/addons/news_grid.php:741
+#: includes/addons/news_grid.php:770 includes/addons/news_grid.php:858
+#: includes/addons/news_grid.php:892 includes/addons/news_grid.php:980
+#: includes/addons/news_grid.php:1060 includes/addons/news_grid.php:1198
+#: includes/addons/news_instagram.php:437
+#: includes/addons/news_instagram.php:575
+#: includes/addons/news_overlay_grid.php:170
+#: includes/addons/news_overlay_grid.php:259
+#: includes/addons/news_overlay_grid.php:347
+#: includes/addons/news_sidebar_tab.php:171
+#: includes/addons/news_sidebar_tab.php:227
+#: includes/addons/news_sidebar_tab.php:280
+#: includes/addons/news_sidebar_tab.php:311
+#: includes/addons/news_sidebar_tab.php:340
+#: includes/addons/news_sidebar_tab.php:371 includes/addons/news_tab.php:266
+#: includes/addons/news_tab.php:344 includes/addons/news_tab.php:376
+#: includes/addons/news_tab.php:418 includes/addons/news_tab.php:449
+#: includes/addons/news_tab.php:490 includes/addons/news_tab.php:530
+#: includes/addons/news_tab.php:563 includes/addons/news_tab.php:594
+#: includes/addons/news_tab.php:627 includes/addons/news_tab.php:677
+#: includes/addons/news_tab.php:708 includes/addons/news_ticker.php:329
+#: includes/addons/news_ticker.php:363 includes/addons/news_ticker.php:449
+#: includes/addons/news_ticker.php:526
+msgid "Color"
+msgstr ""
+
+#: includes/addons/news_block.php:128 includes/addons/news_carousel.php:131
+#: includes/addons/news_grid.php:128 includes/addons/news_overlay_grid.php:116
+#: includes/addons/news_sidebar_tab.php:102 includes/addons/news_tab.php:136
+#: includes/addons/news_ticker.php:173
+msgid "Comment count"
+msgstr ""
+
+#: includes/addons/news_tab.php:1065
+msgid "Comments off"
+msgstr ""
+
+#: includes/addons/contact_form.php:14 includes/addons/contact_form.php:45
+msgid "Contact Form"
+msgstr ""
+
+#: includes/addons/contact_form.php:29 includes/addons/contact_info.php:14
+#: includes/addons/contact_info.php:29 includes/addons/contact_info.php:59
+#: includes/addons/contact_info.php:184
+msgid "Contact Info"
+msgstr ""
+
+#: includes/addons/news_block.php:150 includes/addons/news_block.php:924
+#: includes/addons/news_carousel.php:166 includes/addons/news_carousel.php:820
+#: includes/addons/news_grid.php:760 includes/addons/news_ticker.php:322
+msgid "Content"
+msgstr ""
+
+#: includes/addons/news_block.php:220 includes/addons/news_carousel.php:229
+#: includes/addons/news_grid.php:185 includes/addons/news_sidebar_tab.php:133
+#: includes/addons/news_tab.php:157
+msgid "Content Lenght"
+msgstr ""
+
+#: includes/addons/news_ticker.php:660
+msgid "Content Not Found"
+msgstr ""
+
+#: includes/addons/news_ticker.php:126
+msgid "Content Option"
+msgstr ""
+
+#: includes/widgets/author-info.php:187
+#: includes/widgets/company-info-widget.php:133
+#: includes/widgets/video-popup.php:137
+msgid "Content:"
+msgstr ""
+
+#: includes/addons/news_block.php:1822 includes/addons/news_block.php:1896
+#: includes/addons/news_block.php:2042 includes/addons/news_carousel.php:1557
+#: includes/addons/news_carousel.php:1600
+#: includes/addons/news_carousel.php:1647
+#: includes/addons/news_carousel.php:1696
+#: includes/addons/news_carousel.php:1751
+#: includes/addons/news_carousel.php:1792 includes/addons/news_grid.php:1522
+#: includes/addons/news_tab.php:1000
+msgid "continue reading"
+msgstr ""
+
+#: includes/addons/news_block.php:93 includes/addons/news_carousel.php:96
+#: includes/addons/news_grid.php:93 includes/addons/news_overlay_grid.php:81
+#: includes/addons/news_sidebar_tab.php:67 includes/addons/news_tab.php:101
+#: includes/addons/news_ticker.php:154
+msgid "Custom order"
+msgstr ""
+
+#: includes/addons/news_block.php:1809 includes/addons/news_block.php:1852
+#: includes/addons/news_block.php:1883 includes/addons/news_block.php:1919
+#: includes/addons/news_block.php:1959 includes/addons/news_block.php:1984
+#: includes/addons/news_block.php:2037 includes/addons/news_carousel.php:1544
+#: includes/addons/news_carousel.php:1588
+#: includes/addons/news_carousel.php:1633
+#: includes/addons/news_carousel.php:1684
+#: includes/addons/news_carousel.php:1745
+#: includes/addons/news_carousel.php:1786 includes/addons/news_grid.php:1510
+#: includes/addons/news_grid.php:1540 includes/addons/news_grid.php:1592
+#: includes/addons/news_overlay_grid.php:487
+#: includes/addons/news_sidebar_tab.php:491 includes/addons/news_tab.php:970
+#: includes/addons/news_tab.php:1038 includes/addons/news_tab.php:1058
+#: includes/addons/news_tab.php:1064
+msgid "d F Y"
+msgstr ""
+
+#: includes/widgets/recent-post.php:78
+msgid "d F, Y"
+msgstr ""
+
+#: includes/addons/news_block.php:125 includes/addons/news_block.php:176
+#: includes/addons/news_carousel.php:128 includes/addons/news_carousel.php:176
+#: includes/addons/news_grid.php:125 includes/addons/news_overlay_grid.php:113
+#: includes/addons/news_overlay_grid.php:138
+#: includes/addons/news_overlay_grid.php:249
+#: includes/addons/news_sidebar_tab.php:99
+#: includes/addons/news_sidebar_tab.php:114 includes/addons/news_tab.php:133
+#: includes/addons/news_ticker.php:170
+msgid "Date"
+msgstr ""
+
+#: includes/addons/news_instagram.php:72
+msgid "Day"
+msgstr ""
+
+#: includes/addons/news_instagram.php:58
+msgid "Delete existing caching data"
+msgstr ""
+
+#: includes/addons/news_block.php:107 includes/addons/news_carousel.php:110
+#: includes/addons/news_grid.php:107 includes/addons/news_overlay_grid.php:95
+#: includes/addons/news_sidebar_tab.php:81 includes/addons/news_tab.php:115
+#: includes/addons/news_ticker.php:189
+msgid "Descending"
+msgstr ""
+
+#: includes/widgets/newsletter.php:78
+msgid "Description:"
+msgstr ""
+
+#: includes/addons/news_ticker.php:90
+msgid "Direction"
+msgstr ""
+
+#: includes/addons/google_map.php:72
+msgid "Disable Wheel Zoom"
+msgstr ""
+
+#: includes/widgets/recent-post.php:152
+msgid "Display post date?"
+msgstr ""
+
+#: includes/addons/news_ticker.php:95
+msgid "Down"
+msgstr ""
+
+#: includes/widgets/company-info-widget.php:149
+msgid "Dribbble Link:"
+msgstr ""
+
+#: includes/addons/contact_form.php:38 includes/addons/contact_info.php:38
+#: includes/addons/google_map.php:43 includes/addons/news_block.php:52
+msgid "Enter Section Title"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:51
+msgid "Enter Your api key id."
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:39
+msgid "Enter YouTube Api Key."
+msgstr ""
+
+#: includes/addons/contact_info.php:73
+msgid "fa fa-home"
+msgstr ""
+
+#: includes/widgets/author-info.php:197
+#: includes/widgets/company-info-widget.php:137
+msgid "Facebook Link:"
+msgstr ""
+
+#: includes/addons/news_tab.php:54
+msgid "Featured News"
+msgstr ""
+
+#: includes/addons/news_block.php:1351 includes/addons/news_carousel.php:1088
+#: includes/addons/news_grid.php:1072 includes/addons/news_instagram.php:449
+msgid "Font Size"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:39
+msgid ""
+"For show ID <a href=\"admin.php?page=mailchimp-for-wp-forms\" "
+"target=\"_blank\"> Click here </a>"
+msgstr ""
+
+#: admin/include/admin-setting.php:47
+msgid "General"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:40
+msgid ""
+"Go to <a href=\"https://developers.google.com/youtube/v3/getting-started/\" "
+"target=_blank>You Tube Api Key</a> Create Your Api Key and Enter."
+msgstr ""
+
+#: includes/addons/google_map.php:99
+msgid ""
+"Go to <a href=\"https://snazzymaps.com/\" target=_blank>Snazzy Maps</a> and "
+"Choose/Customize your Map Style. Click on your demo and copy JavaScript "
+"Style Array"
+msgstr ""
+
+#: includes/addons/google_map.php:13
+msgid "Google Map"
+msgstr ""
+
+#: admin/include/admin-setting.php:63
+msgid "Google Map API"
+msgstr ""
+
+#: admin/include/admin-setting.php:64
+msgid "Google Map API Key"
+msgstr ""
+
+#: admin/include/admin-setting.php:65
+msgid ""
+"Google Map API key is needed to display Google map on your website perfectly."
+" If you are not using Google map widget then you can avoid using this key."
+msgstr ""
+
+#: includes/addons/google_map.php:50
+msgid "Google Maps Latitude & Longitude"
+msgstr ""
+
+#: includes/addons/google_map.php:52
+msgid "Google Maps Latitude & Longitude, e.g. 40.6700, -73.9400"
+msgstr ""
+
+#: includes/widgets/author-info.php:201
+#: includes/widgets/company-info-widget.php:141
+msgid "Google Plus Link:"
+msgstr ""
+
+#: includes/addons/google_map.php:34
+msgid "GoogleMap"
+msgstr ""
+
+#: includes/addons/contact_form.php:137 includes/addons/contact_form.php:280
+#: includes/addons/news_block.php:1408 includes/addons/news_block.php:1578
+#: includes/addons/news_carousel.php:1145
+#: includes/addons/news_carousel.php:1315 includes/addons/news_grid.php:1129
+#: includes/addons/news_grid.php:1299 includes/addons/news_instagram.php:506
+#: includes/addons/news_instagram.php:676
+#: includes/addons/news_mail_chimp.php:193
+#: includes/addons/news_mail_chimp.php:334
+msgid "Height"
+msgstr ""
+
+#: includes/addons/news_instagram.php:71
+msgid "Hour"
+msgstr ""
+
+#: includes/addons/contact_info.php:74
+msgid "House No 08, Road No 08 Din Bari, Dhaka, Bangladesh"
+msgstr ""
+
+#: includes/addons/news_block.php:753 includes/addons/news_block.php:892
+#: includes/addons/news_block.php:1290 includes/addons/news_block.php:1470
+#: includes/addons/news_carousel.php:794 includes/addons/news_carousel.php:1207
+#: includes/addons/news_category_menu.php:170 includes/addons/news_grid.php:735
+#: includes/addons/news_grid.php:1191 includes/addons/news_instagram.php:568
+#: includes/addons/news_mail_chimp.php:433
+#: includes/addons/news_sidebar_tab.php:304 includes/addons/news_tab.php:442
+#: includes/addons/news_tab.php:520 includes/addons/news_tab.php:701
+#: includes/addons/news_ticker.php:520
+msgid "Hover"
+msgstr ""
+
+#. Author of the plugin
+msgid "HT Plugins"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://htplugins.com/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://profiles.wordpress.org/htplugins/"
+msgstr ""
+
+#: includes/addons/adds_banner.php:57
+msgid "https://your-link.com"
+msgstr ""
+
+#: includes/addons/contact_info.php:47 includes/addons/contact_info.php:161
+msgid "Icon"
+msgstr ""
+
+#: includes/addons/news_block.php:124 includes/addons/news_carousel.php:127
+#: includes/addons/news_grid.php:124 includes/addons/news_overlay_grid.php:112
+#: includes/addons/news_sidebar_tab.php:98 includes/addons/news_tab.php:132
+#: includes/addons/news_ticker.php:169
+msgid "ID"
+msgstr ""
+
+#: includes/addons/adds_banner.php:35
+msgid "Image"
+msgstr ""
+
+#: includes/addons/news_instagram.php:807
+msgid "Incorrect access token specified."
+msgstr ""
+
+#: includes/addons/contact_form.php:130
+msgid "Input"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:185
+msgid "Input Box"
+msgstr ""
+
+#: includes/addons/news_instagram.php:28
+msgid "Instagram"
+msgstr ""
+
+#: includes/addons/news_instagram.php:35
+msgid "Instagram Access Token"
+msgstr ""
+
+#: includes/addons/news_instagram.php:13
+msgid "Instagram Feed"
+msgstr ""
+
+#: includes/widgets/author-info.php:221
+msgid "Instagram Link:"
+msgstr ""
+
+#: admin/include/admin_notice.php:34
+msgid "Install Elementor Now"
+msgstr ""
+
+#: includes/addons/news_carousel.php:566
+msgid "Item"
+msgstr ""
+
+#: includes/addons/news_instagram.php:45
+msgid "Item Limit (Max 200)"
+msgstr ""
+
+#: includes/addons/news_block.php:737 includes/addons/news_block.php:873
+#: includes/addons/news_block.php:995 includes/addons/news_block.php:1083
+#: includes/addons/news_block.php:1274 includes/addons/news_carousel.php:777
+#: includes/addons/news_carousel.php:891 includes/addons/news_carousel.php:979
+#: includes/addons/news_grid.php:719 includes/addons/news_grid.php:831
+#: includes/addons/news_grid.php:953 includes/addons/news_mail_chimp.php:129
+#: includes/addons/news_overlay_grid.php:231
+#: includes/addons/news_overlay_grid.php:320
+msgid "Justified"
+msgstr ""
+
+#: includes/addons/news_ticker.php:352
+msgid "Label"
+msgstr ""
+
+#: includes/addons/news_ticker.php:46
+msgid "Label Icon"
+msgstr ""
+
+#: includes/addons/news_tab.php:182
+msgid "Large"
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:58 includes/addons/news_tab.php:92
+msgid "Large Post Limit"
+msgstr ""
+
+#: includes/addons/news_block.php:35 includes/addons/news_carousel.php:29
+#: includes/addons/news_carousel.php:36 includes/addons/news_grid.php:35
+#: includes/addons/news_overlay_grid.php:30
+#: includes/addons/news_overlay_grid.php:37 includes/addons/news_tab.php:36
+msgid "Layout"
+msgstr ""
+
+#: includes/addons/news_carousel.php:44 includes/addons/news_tab.php:44
+msgid "Layout Five"
+msgstr ""
+
+#: includes/addons/news_block.php:42 includes/addons/news_carousel.php:43
+#: includes/addons/news_tab.php:43
+msgid "Layout Four"
+msgstr ""
+
+#: includes/addons/news_block.php:39 includes/addons/news_carousel.php:40
+#: includes/addons/news_overlay_grid.php:41 includes/addons/news_tab.php:40
+msgid "Layout One"
+msgstr ""
+
+#: includes/addons/news_carousel.php:45
+msgid "Layout Six"
+msgstr ""
+
+#: includes/addons/news_block.php:41 includes/addons/news_carousel.php:42
+#: includes/addons/news_grid.php:41 includes/addons/news_tab.php:42
+msgid "Layout Three"
+msgstr ""
+
+#: includes/addons/news_block.php:40 includes/addons/news_carousel.php:41
+#: includes/addons/news_grid.php:40 includes/addons/news_overlay_grid.php:42
+#: includes/addons/news_tab.php:41
+msgid "Layout Two"
+msgstr ""
+
+#: includes/addons/news_block.php:725 includes/addons/news_block.php:861
+#: includes/addons/news_block.php:983 includes/addons/news_block.php:1071
+#: includes/addons/news_block.php:1262 includes/addons/news_carousel.php:765
+#: includes/addons/news_carousel.php:879 includes/addons/news_carousel.php:967
+#: includes/addons/news_grid.php:707 includes/addons/news_grid.php:819
+#: includes/addons/news_grid.php:941 includes/addons/news_mail_chimp.php:117
+#: includes/addons/news_overlay_grid.php:219
+#: includes/addons/news_overlay_grid.php:308
+msgid "Left"
+msgstr ""
+
+#: includes/addons/news_block.php:83 includes/addons/news_carousel.php:86
+#: includes/addons/news_grid.php:83 includes/addons/news_overlay_grid.php:71
+#: includes/addons/news_sidebar_tab.php:48 includes/addons/news_tab.php:82
+msgid "Limit"
+msgstr ""
+
+#: includes/widgets/author-info.php:213
+#: includes/widgets/company-info-widget.php:153
+msgid "Linkedin Link:"
+msgstr ""
+
+#: includes/addons/news_tab.php:215 includes/addons/news_tab.php:238
+msgid "List Blog Image Size"
+msgstr ""
+
+#: includes/addons/news_tab.php:205
+msgid "List/Small Image"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:29
+msgid "Mailchimp"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:14
+msgid "Mailchimp for wp"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:36
+msgid "Mailchimp ID"
+msgstr ""
+
+#: includes/addons/google_map.php:60
+msgid "Map Height (px)"
+msgstr ""
+
+#: includes/addons/google_map.php:84
+msgid "Map Marker"
+msgstr ""
+
+#: includes/addons/google_map.php:95
+msgid "Map Style"
+msgstr ""
+
+#: includes/addons/contact_form.php:90 includes/addons/contact_form.php:251
+#: includes/addons/contact_form.php:377 includes/addons/contact_info.php:121
+#: includes/addons/news_block.php:616 includes/addons/news_block.php:697
+#: includes/addons/news_block.php:827 includes/addons/news_block.php:955
+#: includes/addons/news_block.php:1043 includes/addons/news_block.php:1157
+#: includes/addons/news_block.php:1234 includes/addons/news_carousel.php:655
+#: includes/addons/news_carousel.php:737 includes/addons/news_carousel.php:851
+#: includes/addons/news_carousel.php:939 includes/addons/news_carousel.php:1027
+#: includes/addons/news_category_menu.php:89 includes/addons/news_grid.php:598
+#: includes/addons/news_grid.php:679 includes/addons/news_grid.php:791
+#: includes/addons/news_grid.php:913 includes/addons/news_grid.php:1001
+#: includes/addons/news_mail_chimp.php:90
+#: includes/addons/news_mail_chimp.php:299
+#: includes/addons/news_mail_chimp.php:396
+#: includes/addons/news_overlay_grid.php:191
+#: includes/addons/news_overlay_grid.php:280
+#: includes/addons/news_overlay_grid.php:368 includes/addons/news_tab.php:287
+#: includes/addons/news_ticker.php:306 includes/addons/news_ticker.php:504
+msgid "Margin"
+msgstr ""
+
+#: includes/addons/news_ticker.php:63
+msgid "Maxium Row"
+msgstr ""
+
+#: includes/addons/news_tab.php:228
+msgid "Medium Size Image"
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:204
+msgid "Menu Area Before/After Color"
+msgstr ""
+
+#: includes/addons/news_block.php:1097 includes/addons/news_tab.php:615
+msgid "Meta Over The Thumbnail"
+msgstr ""
+
+#: includes/addons/news_instagram.php:70
+msgid "Minute"
+msgstr ""
+
+#: includes/addons/news_block.php:526 includes/addons/news_carousel.php:507
+#: includes/addons/news_grid.php:459 includes/addons/news_instagram.php:356
+msgid "Mobile Phone"
+msgstr ""
+
+#: includes/addons/news_block.php:568 includes/addons/news_carousel.php:549
+#: includes/addons/news_grid.php:501 includes/addons/news_instagram.php:398
+msgid "Mobile Resolution"
+msgstr ""
+
+#: includes/addons/news_instagram.php:74
+msgid "Month"
+msgstr ""
+
+#: includes/addons/news_tab.php:779
+msgid "More"
+msgstr ""
+
+#: includes/addons/news_block.php:126 includes/addons/news_carousel.php:129
+#: includes/addons/news_grid.php:126 includes/addons/news_overlay_grid.php:114
+#: includes/addons/news_sidebar_tab.php:100 includes/addons/news_tab.php:134
+#: includes/addons/news_ticker.php:171
+msgid "Name"
+msgstr ""
+
+#: includes/addons/news_ticker.php:429
+msgid "Navigation"
+msgstr ""
+
+#: includes/addons/news_ticker.php:204
+msgid "Navigation Button"
+msgstr ""
+
+#: includes/addons/news_block.php:14 includes/addons/news_block.php:29
+msgid "News Block"
+msgstr ""
+
+#: includes/addons/news_carousel.php:14
+msgid "News Carousel"
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:330 includes/addons/news_tab.php:553
+msgid "News Content"
+msgstr ""
+
+#: includes/addons/news_grid.php:14
+msgid "News Grid"
+msgstr ""
+
+#: includes/addons/news_ticker.php:144
+msgid "News Limit"
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:364 includes/addons/news_tab.php:587
+msgid "News Meta"
+msgstr ""
+
+#: includes/addons/news_overlay_grid.php:14
+msgid "News Overlay Grid"
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:14
+msgid "News Sidebar Tab"
+msgstr ""
+
+#: includes/addons/news_tab.php:14 includes/addons/news_tab.php:29
+msgid "News Tab"
+msgstr ""
+
+#: includes/addons/news_ticker.php:14 includes/addons/news_ticker.php:29
+msgid "News Ticker"
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:260 includes/addons/news_tab.php:398
+msgid "News Title"
+msgstr ""
+
+#: includes/addons/news_ticker.php:236
+msgid "Next Icon"
+msgstr ""
+
+#: includes/addons/news_block.php:344 includes/addons/news_carousel.php:325
+#: includes/addons/news_grid.php:277 includes/addons/news_instagram.php:174
+msgid "Next icon"
+msgstr ""
+
+#: includes/addons/google_map.php:75 includes/addons/news_block.php:374
+#: includes/addons/news_carousel.php:355 includes/addons/news_grid.php:307
+#: includes/addons/news_instagram.php:204
+msgid "No"
+msgstr ""
+
+#: includes/helpers_function.php:69
+msgid "No contact form found"
+msgstr ""
+
+#: includes/addons/news_block.php:123 includes/addons/news_carousel.php:126
+#: includes/addons/news_grid.php:123 includes/addons/news_overlay_grid.php:111
+#: includes/addons/news_sidebar_tab.php:97 includes/addons/news_tab.php:131
+#: includes/addons/news_ticker.php:168
+msgid "None"
+msgstr ""
+
+#: includes/addons/news_block.php:669 includes/addons/news_block.php:790
+#: includes/addons/news_block.php:1206 includes/addons/news_block.php:1332
+#: includes/addons/news_block.php:1541 includes/addons/news_carousel.php:709
+#: includes/addons/news_carousel.php:1069
+#: includes/addons/news_carousel.php:1278
+#: includes/addons/news_category_menu.php:139 includes/addons/news_grid.php:651
+#: includes/addons/news_grid.php:1053 includes/addons/news_grid.php:1262
+#: includes/addons/news_instagram.php:430
+#: includes/addons/news_instagram.php:639
+#: includes/addons/news_mail_chimp.php:327
+#: includes/addons/news_sidebar_tab.php:164
+#: includes/addons/news_sidebar_tab.php:273 includes/addons/news_tab.php:337
+#: includes/addons/news_tab.php:411 includes/addons/news_tab.php:480
+#: includes/addons/news_tab.php:670 includes/addons/news_ticker.php:442
+msgid "Normal"
+msgstr ""
+
+#: includes/widgets/recent-post.php:125
+msgid "Number of Posts to show"
+msgstr ""
+
+#: includes/addons/news_block.php:236 includes/addons/news_carousel.php:244
+#: includes/addons/news_instagram.php:91
+msgid "Off"
+msgstr ""
+
+#: includes/addons/news_block.php:235 includes/addons/news_carousel.php:243
+#: includes/addons/news_instagram.php:90
+msgid "On"
+msgstr ""
+
+#: includes/init.php:48
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/addons/news_block.php:103 includes/addons/news_carousel.php:106
+#: includes/addons/news_grid.php:103 includes/addons/news_overlay_grid.php:91
+#: includes/addons/news_sidebar_tab.php:77 includes/addons/news_tab.php:111
+msgid "Order"
+msgstr ""
+
+#: includes/addons/news_ticker.php:185
+msgid "order"
+msgstr ""
+
+#: includes/addons/news_block.php:119 includes/addons/news_carousel.php:122
+#: includes/addons/news_grid.php:119 includes/addons/news_overlay_grid.php:107
+#: includes/addons/news_sidebar_tab.php:93 includes/addons/news_tab.php:127
+#: includes/addons/news_ticker.php:164
+msgid "Orderby"
+msgstr ""
+
+#: includes/widgets/company-info-widget.php:11
+msgid "Our short description ."
+msgstr ""
+
+#: includes/addons/news_grid.php:517 includes/addons/news_grid.php:528
+msgid "Overlay Color"
+msgstr ""
+
+#: includes/addons/news_grid.php:540
+msgid "Overlay Opacity"
+msgstr ""
+
+#: includes/addons/contact_form.php:102 includes/addons/contact_form.php:232
+#: includes/addons/contact_form.php:364 includes/addons/contact_info.php:133
+#: includes/addons/news_block.php:628 includes/addons/news_block.php:709
+#: includes/addons/news_block.php:842 includes/addons/news_block.php:967
+#: includes/addons/news_block.php:1055 includes/addons/news_block.php:1169
+#: includes/addons/news_block.php:1246 includes/addons/news_block.php:1454
+#: includes/addons/news_carousel.php:667 includes/addons/news_carousel.php:749
+#: includes/addons/news_carousel.php:863 includes/addons/news_carousel.php:951
+#: includes/addons/news_carousel.php:1039
+#: includes/addons/news_carousel.php:1191
+#: includes/addons/news_category_menu.php:101 includes/addons/news_grid.php:610
+#: includes/addons/news_grid.php:691 includes/addons/news_grid.php:803
+#: includes/addons/news_grid.php:925 includes/addons/news_grid.php:1013
+#: includes/addons/news_grid.php:1175 includes/addons/news_instagram.php:552
+#: includes/addons/news_mail_chimp.php:77
+#: includes/addons/news_mail_chimp.php:285
+#: includes/addons/news_mail_chimp.php:383
+#: includes/addons/news_overlay_grid.php:203
+#: includes/addons/news_overlay_grid.php:292
+#: includes/addons/news_overlay_grid.php:380 includes/addons/news_tab.php:299
+#: includes/addons/news_ticker.php:293 includes/addons/news_ticker.php:413
+#: includes/addons/news_ticker.php:491
+msgid "Padding"
+msgstr ""
+
+#: includes/addons/news_block.php:1526 includes/addons/news_carousel.php:1263
+#: includes/addons/news_grid.php:1247 includes/addons/news_instagram.php:624
+msgid "Pagination"
+msgstr ""
+
+#: includes/addons/news_ticker.php:114
+msgid "Pause on hover"
+msgstr ""
+
+#: includes/addons/news_block.php:378 includes/addons/news_carousel.php:359
+#: includes/addons/news_grid.php:311 includes/addons/news_instagram.php:208
+msgid "Pause on Hover?"
+msgstr ""
+
+#: includes/widgets/author-info.php:217
+msgid "Pinterest Link:"
+msgstr ""
+
+#: includes/addons/contact_form.php:330 includes/addons/news_mail_chimp.php:246
+msgid "Placeholder Color"
+msgstr ""
+
+#: includes/addons/news_instagram.php:792
+msgid "Please enter your access token."
+msgstr ""
+
+#: includes/addons/contact_form.php:664
+msgid "Please Select contact form."
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:50
+msgid "PLsmqeqKj7M-rx1GmqYA4THAa7oWj00DNU"
+msgstr ""
+
+#: includes/init.php:52
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: includes/widgets/recent-post.php:156
+msgid "Popular News ( If check this box show popular post. )"
+msgstr ""
+
+#: includes/addons/news_grid.php:29
+msgid "Post Grid"
+msgstr ""
+
+#: includes/addons/news_block.php:65 includes/addons/news_carousel.php:68
+#: includes/addons/news_grid.php:65 includes/addons/news_overlay_grid.php:53
+#: includes/addons/news_sidebar_tab.php:30 includes/addons/news_tab.php:64
+msgid "Post Option"
+msgstr ""
+
+#: includes/addons/news_ticker.php:221
+msgid "Previous Icon"
+msgstr ""
+
+#: includes/addons/news_block.php:328 includes/addons/news_carousel.php:309
+#: includes/addons/news_grid.php:261 includes/addons/news_instagram.php:158
+msgid "Previous icon"
+msgstr ""
+
+#: includes/addons/news_block.php:129 includes/addons/news_carousel.php:132
+#: includes/addons/news_grid.php:129 includes/addons/news_overlay_grid.php:117
+#: includes/addons/news_sidebar_tab.php:103 includes/addons/news_tab.php:137
+#: includes/addons/news_ticker.php:174
+msgid "Random"
+msgstr ""
+
+#: includes/addons/news_block.php:1194 includes/addons/news_carousel.php:996
+msgid "Read More"
+msgstr ""
+
+#: includes/addons/news_block.php:186 includes/addons/news_carousel.php:186
+#: includes/addons/news_grid.php:197 includes/addons/news_grid.php:848
+#: includes/addons/news_tab.php:169 includes/addons/news_tab.php:657
+msgid "Read More Button"
+msgstr ""
+
+#: includes/addons/news_block.php:196 includes/addons/news_carousel.php:196
+msgid "Read More Button Text"
+msgstr ""
+
+#: includes/addons/news_block.php:733 includes/addons/news_block.php:869
+#: includes/addons/news_block.php:991 includes/addons/news_block.php:1079
+#: includes/addons/news_block.php:1270 includes/addons/news_carousel.php:773
+#: includes/addons/news_carousel.php:887 includes/addons/news_carousel.php:975
+#: includes/addons/news_grid.php:715 includes/addons/news_grid.php:827
+#: includes/addons/news_grid.php:949 includes/addons/news_mail_chimp.php:125
+#: includes/addons/news_overlay_grid.php:227
+#: includes/addons/news_overlay_grid.php:316
+msgid "Right"
+msgstr ""
+
+#: includes/addons/news_ticker.php:54
+msgid "Row Height"
+msgstr ""
+
+#: includes/addons/contact_form.php:36 includes/addons/contact_form.php:58
+#: includes/addons/contact_info.php:36 includes/addons/contact_info.php:89
+#: includes/addons/google_map.php:41 includes/addons/news_block.php:50
+#: includes/addons/news_block.php:584 includes/addons/news_carousel.php:623
+#: includes/addons/news_category_menu.php:57 includes/addons/news_grid.php:49
+#: includes/addons/news_grid.php:566 includes/addons/news_tab.php:52
+#: includes/addons/news_tab.php:255
+msgid "Section Title"
+msgstr ""
+
+#: includes/widgets/recent-post.php:129
+msgid "Select categories"
+msgstr ""
+
+#: wp-news-magazine.php:32
+msgid "Settings"
+msgstr ""
+
+#: includes/widgets/newsletter.php:82
+msgid "Shortcode:"
+msgstr ""
+
+#: includes/addons/news_ticker.php:211
+msgid "Show"
+msgstr ""
+
+#: includes/addons/news_category_menu.php:43
+msgid "Show Post Count"
+msgstr ""
+
+#: includes/addons/news_grid.php:39
+msgid "Slider"
+msgstr ""
+
+#: includes/addons/news_grid.php:248
+msgid "Slider Arrow"
+msgstr ""
+
+#: includes/addons/news_grid.php:350
+msgid "Slider auto play"
+msgstr ""
+
+#: includes/addons/news_grid.php:293
+msgid "Slider dots"
+msgstr ""
+
+#: includes/addons/news_grid.php:389 includes/addons/news_grid.php:431
+#: includes/addons/news_grid.php:486
+msgid "Slider item to scroll"
+msgstr ""
+
+#: includes/addons/news_grid.php:233 includes/addons/news_grid.php:416
+#: includes/addons/news_grid.php:471
+msgid "Slider Items"
+msgstr ""
+
+#: includes/addons/news_grid.php:223
+msgid "Slider Option"
+msgstr ""
+
+#: includes/widgets/author-info.php:192
+msgid "Social Title:"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:69 includes/addons/news_ticker.php:255
+msgid "Style"
+msgstr ""
+
+#: includes/addons/google_map.php:110
+msgid "Style tab name"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:57
+msgid "Sub Title"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:170
+msgid "Sub Title Color"
+msgstr ""
+
+#: admin/include/admin-setting.php:92
+msgid "Successfully Settings Saved."
+msgstr ""
+
+#: includes/addons/news_sidebar_tab.php:154 includes/addons/news_tab.php:327
+msgid "Tab Menu"
+msgstr ""
+
+#: includes/addons/news_block.php:471 includes/addons/news_carousel.php:452
+#: includes/addons/news_grid.php:404 includes/addons/news_instagram.php:301
+msgid "Tablet"
+msgstr ""
+
+#: includes/addons/news_block.php:513 includes/addons/news_carousel.php:494
+#: includes/addons/news_grid.php:446 includes/addons/news_instagram.php:343
+msgid "Tablet Resolution"
+msgstr ""
+
+#: includes/addons/contact_form.php:188 includes/addons/contact_form.php:319
+#: includes/addons/news_mail_chimp.php:234
+#: includes/addons/news_mail_chimp.php:361
+#: includes/addons/news_mail_chimp.php:440
+msgid "Text Color"
+msgstr ""
+
+#: includes/addons/contact_form.php:273
+msgid "Textarea"
+msgstr ""
+
+#: includes/addons/news_block.php:569 includes/addons/news_carousel.php:550
+#: includes/addons/news_grid.php:502 includes/addons/news_instagram.php:399
+msgid "The resolution to mobile."
+msgstr ""
+
+#: includes/addons/news_block.php:514 includes/addons/news_carousel.php:495
+#: includes/addons/news_grid.php:447 includes/addons/news_instagram.php:344
+msgid "The resolution to tablet."
+msgstr ""
+
+#. Description of the plugin
+msgid "The WP News Magazine is a elementor addons And WordPress Widges."
+msgstr ""
+
+#: includes/widgets/author-info.php:15
+msgid "This widget show author informations"
+msgstr ""
+
+#: includes/widgets/single-banner.php:14
+msgid "This widget show banner"
+msgstr ""
+
+#: includes/widgets/video-popup.php:15
+msgid "This widget show video thumbnail and video"
+msgstr ""
+
+#: includes/widgets/recent-post.php:69
+msgid "Thumb"
+msgstr ""
+
+#: includes/addons/news_ticker.php:36
+msgid "Ticker Label"
+msgstr ""
+
+#: includes/addons/news_block.php:127 includes/addons/news_block.php:140
+#: includes/addons/news_block.php:656 includes/addons/news_carousel.php:53
+#: includes/addons/news_carousel.php:130 includes/addons/news_carousel.php:143
+#: includes/addons/news_carousel.php:695
+#: includes/addons/news_category_menu.php:34 includes/addons/news_grid.php:127
+#: includes/addons/news_grid.php:140 includes/addons/news_grid.php:638
+#: includes/addons/news_mail_chimp.php:48
+#: includes/addons/news_mail_chimp.php:147
+#: includes/addons/news_overlay_grid.php:115
+#: includes/addons/news_overlay_grid.php:160
+#: includes/addons/news_sidebar_tab.php:101 includes/addons/news_tab.php:135
+#: includes/addons/news_ticker.php:172 includes/widgets/recent-post.php:121
+msgid "Title"
+msgstr ""
+
+#: includes/addons/contact_form.php:114 includes/addons/contact_info.php:145
+#: includes/addons/news_block.php:640 includes/addons/news_carousel.php:679
+#: includes/addons/news_category_menu.php:113 includes/addons/news_grid.php:622
+#: includes/addons/news_tab.php:311
+msgid "Title Before/After Color"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:158
+msgid "Title Color"
+msgstr ""
+
+#: includes/addons/news_block.php:208 includes/addons/news_carousel.php:217
+#: includes/addons/news_overlay_grid.php:148
+#: includes/addons/news_sidebar_tab.php:124 includes/addons/news_tab.php:148
+msgid "Title Lenght"
+msgstr ""
+
+#: includes/addons/news_grid.php:173
+msgid "Title Length"
+msgstr ""
+
+#: includes/addons/news_block.php:776 includes/addons/news_tab.php:466
+msgid "Title Over The Thumbnail"
+msgstr ""
+
+#: includes/widgets/recent-post.php:147
+msgid "Title Word"
+msgstr ""
+
+#: includes/widgets/author-info.php:183
+#: includes/widgets/company-info-widget.php:119
+#: includes/widgets/newsletter.php:74 includes/widgets/single-banner.php:97
+#: includes/widgets/video-popup.php:120
+msgid "Title:"
+msgstr ""
+
+#: includes/widgets/author-info.php:205
+#: includes/widgets/company-info-widget.php:145
+msgid "Twitter Link:"
+msgstr ""
+
+#: includes/addons/news_mail_chimp.php:59
+msgid "Type your sub title here"
+msgstr ""
+
+#: includes/addons/news_carousel.php:55
+#: includes/addons/news_category_menu.php:36 includes/addons/news_grid.php:51
+#: includes/addons/news_mail_chimp.php:50
+msgid "Type your title here"
+msgstr ""
+
+#: includes/addons/contact_form.php:82 includes/addons/contact_info.php:113
+#: includes/addons/contact_info.php:205 includes/addons/news_block.php:608
+#: includes/addons/news_block.php:689 includes/addons/news_block.php:816
+#: includes/addons/news_block.php:947 includes/addons/news_block.php:1035
+#: includes/addons/news_block.php:1149 includes/addons/news_block.php:1226
+#: includes/addons/news_carousel.php:647 includes/addons/news_carousel.php:729
+#: includes/addons/news_carousel.php:843 includes/addons/news_carousel.php:931
+#: includes/addons/news_carousel.php:1019
+#: includes/addons/news_category_menu.php:81
+#: includes/addons/news_category_menu.php:160 includes/addons/news_grid.php:590
+#: includes/addons/news_grid.php:671 includes/addons/news_grid.php:783
+#: includes/addons/news_grid.php:871 includes/addons/news_grid.php:905
+#: includes/addons/news_grid.php:993 includes/addons/news_overlay_grid.php:183
+#: includes/addons/news_overlay_grid.php:272
+#: includes/addons/news_overlay_grid.php:360
+#: includes/addons/news_sidebar_tab.php:184
+#: includes/addons/news_sidebar_tab.php:293
+#: includes/addons/news_sidebar_tab.php:353
+#: includes/addons/news_sidebar_tab.php:384 includes/addons/news_tab.php:279
+#: includes/addons/news_tab.php:358 includes/addons/news_tab.php:431
+#: includes/addons/news_tab.php:506 includes/addons/news_tab.php:576
+#: includes/addons/news_tab.php:607 includes/addons/news_tab.php:643
+#: includes/addons/news_tab.php:690
+msgid "Typography"
+msgstr ""
+
+#: includes/addons/news_ticker.php:94
+msgid "Up"
+msgstr ""
+
+#: includes/widgets/company-info-widget.php:130
+msgid "Upload"
+msgstr ""
+
+#: includes/widgets/author-info.php:174 includes/widgets/single-banner.php:102
+#: includes/widgets/video-popup.php:125
+msgid "Upload Image"
+msgstr ""
+
+#: includes/widgets/company-info-widget.php:125
+msgid "Upload Image:"
+msgstr ""
+
+#: includes/addons/news_block.php:1012 includes/addons/news_carousel.php:908
+msgid "User Meta"
+msgstr ""
+
+#: includes/addons/news_grid.php:163 includes/addons/news_grid.php:882
+msgid "UserMeta"
+msgstr ""
+
+#: includes/widgets/video-popup.php:133
+msgid "Video Link:"
+msgstr ""
+
+#: includes/widgets/video-popup.php:50
+msgid "video popup bg image"
+msgstr ""
+
+#: includes/addons/news_instagram.php:73
+msgid "Week"
+msgstr ""
+
+#: includes/widgets/recent-post.php:159
+msgid "Widget area class"
+msgstr ""
+
+#: includes/addons/news_block.php:1431 includes/addons/news_block.php:1605
+#: includes/addons/news_carousel.php:1168
+#: includes/addons/news_carousel.php:1342 includes/addons/news_grid.php:1152
+#: includes/addons/news_grid.php:1326 includes/addons/news_instagram.php:529
+#: includes/addons/news_instagram.php:703
+msgid "Width"
+msgstr ""
+
+#: admin/include/admin-setting.php:31 admin/include/admin-setting.php:32
+msgid "WP News"
+msgstr ""
+
+#: admin/include/admin_notice.php:28
+msgid ""
+"WP News Addons not working because you need to activate the Elementor plugin."
+msgstr ""
+
+#: admin/include/admin_notice.php:33
+msgid ""
+"WP News Addons not working because you need to install the Elementor plugin"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP News Magazine"
+msgstr ""
+
+#: admin/include/admin-setting.php:81
+msgid "WP News Settings"
+msgstr ""
+
+#: includes/widgets/newsletter.php:11
+msgid "WpNews contact for address email and phone no."
+msgstr ""
+
+#: includes/widgets/author-info.php:19
+msgid "WPNews: Author Informations"
+msgstr ""
+
+#: includes/widgets/single-banner.php:17
+msgid "WPNews: Banner"
+msgstr ""
+
+#: includes/widgets/newsletter.php:13
+msgid "WPNews: Newsletter"
+msgstr ""
+
+#: includes/widgets/recent-post.php:16
+msgid "WPNews: Recent Posts"
+msgstr ""
+
+#: includes/widgets/recent-post.php:14
+msgid "WPNews: Recent Posts Widget"
+msgstr ""
+
+#: includes/widgets/company-info-widget.php:12
+msgid "WPNews: Short Description"
+msgstr ""
+
+#: includes/widgets/video-popup.php:19
+msgid "WPNews: Video PopUp"
+msgstr ""
+
+#: includes/addons/news_instagram.php:75
+msgid "Year"
+msgstr ""
+
+#: includes/addons/google_map.php:74 includes/addons/news_block.php:375
+#: includes/addons/news_carousel.php:356 includes/addons/news_grid.php:308
+#: includes/addons/news_instagram.php:205
+msgid "Yes"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:35
+msgid "YouTube Api Key"
+msgstr ""
+
+#: includes/widgets/author-info.php:209
+msgid "Youtube Link:"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:28
+msgid "YouTube Player"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:13
+msgid "Youtube Player"
+msgstr ""
+
+#: includes/addons/news_youtube_playlist.php:47
+msgid "YouTube Playlist Id"
+msgstr ""
